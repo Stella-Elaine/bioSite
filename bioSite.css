@@ -34,7 +34,7 @@ h1 {
 
     display: block;
 
-    color:#B7ADCF;
+    color:#03000a;
 
     text-align: center;
 
@@ -45,7 +45,7 @@ h1 {
 
 #navbar a:hover {
 background-color:#B7ADCF ; 
- color:#535657; 
+ color:#055874; 
 }
 
 #container {
